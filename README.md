@@ -1,1 +1,1 @@
-This is a real me in C
+This is a readme in C
