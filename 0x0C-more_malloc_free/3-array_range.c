@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "coding.h"
+#include "main.h"
 
 /**
  * *array_range - function with two argument
