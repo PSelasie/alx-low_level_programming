@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "coding.h"
+#include "main.h"
 
 /**
  * *_calloc - function with two argument
